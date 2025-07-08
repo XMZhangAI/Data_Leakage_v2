@@ -25,8 +25,7 @@ Data_Leakage_v2
 ├── leakage_v2.py / leakage_v3.py    # LoRA fine-tuning to *inject* leakage
 ├── construct_*_dataset_*.py         # scripts that build detection datasets
 ├── finetune_lora.py                 # generic PEFT trainer wrapper
-├── *.sh                             # turnkey replication scripts
-└── README.md                        # minimal Chinese stub (overwritten here)
+└── *.sh                             # turnkey replication scripts
 ```
 
 The code was used in our 2024 TPAMI / ACL study on **model robustness under code-data leakage** (PKU SEKE Lab, with Dr. Dong Yihong).
