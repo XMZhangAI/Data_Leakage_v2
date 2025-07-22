@@ -111,13 +111,13 @@ They follow the pattern **construct → fine-tune → generate → detect → ev
 ## Citation
 
 ```bibtex
-@misc{donggeneralization,
-  title   = {Generalization or Memorization: Evaluating Data Contamination for Large Language Models},
-  author  = {Dong, Yihong and Jiang, Xue and Zhang, Xuanming and Liu, Huanyu and Jin, Zhi and Gu, Bin and Yang, Mengfei and Li, Ge},
-  journal = {Peking University Computer Science},
-  year    = {2025},
-  month   = {Jan},
-  url     = {https://www.researchgate.net/publication/387596869_Generalization_or_Memorization_Evaluating_Data_Contamination_for_Large_Language_Models},
+@techreport{zhang2025generalization,
+ title = {Generalization or Memorization: Evaluating Data Contamination for Large Language Models},
+ author = {Dong, Yihong and Jiang, Xue and Zhang, Xuanming and Liu, Huanyu and Jin, Zhi and Gu, Bin and Yang, Mengfei and Li, Ge},
+ institution = {Stanford University},
+ year = {2025},
+ type = {Technical Report},
+ url = {https://web.stanford.edu/~zhangxm/Generalization_or_Memorization__Evaluating_Data_Contamination_for_Large_Language_Models.pdf}
 }
 ```
 
